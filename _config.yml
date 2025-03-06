@@ -1,2 +1,14 @@
+<<<<<<< Updated upstream
 title: My Pato
 theme: minima
+=======
+title: Perawins lovely website
+theme: Modernist
+
+# Add navigation links
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+>>>>>>> Stashed changes
