@@ -1,3 +1,3 @@
 # Perawin.github.io
 
-Hello, welcome to me website :D
+Hello, welcome to me repository :D
