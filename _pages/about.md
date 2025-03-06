@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 # About Me
 
 Welcome to my personal page! Here, you'll find information about my background, interests, and projects.
