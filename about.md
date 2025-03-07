@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /_pages/about/
+permalink: /about/
 ---
 
 # About Me
@@ -25,5 +25,7 @@ Here are some of the projects I have worked on:
 1. **this website?:** A brief description of the project and its purpose.
 2. **Project Name:** A brief description of the project and its purpose.
 3. **Project Name:** A brief description of the project and its purpose.
+
+[Learn more about our team](team/) { .btn .btn-primary }
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!
