@@ -1,5 +1,6 @@
 title: Perawins lovely website
-theme: jekyll-theme-architech
+theme: minima
+author: Perawin
 
 # Add navigation links
 nav:
