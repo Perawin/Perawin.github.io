@@ -26,7 +26,7 @@ Here are some of the projects I have worked on:
 2. **Project Name:** A brief description of the project and its purpose.
 3. **Project Name:** A brief description of the project and its purpose.
 
-[Learn more about our team](team/)
-[Contact us](contact/)
+[Learn more about our team](team/) { .btn .btn-primary }
+[Contact us](contact/) { .btn .btn-primary }
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!

@@ -7,9 +7,9 @@ nav:
   - title: Home
     url: /
   - title: About
-    url: /about
+    url: /about/
     sub_nav:
-      - title: Contact us
-        url: /about/contact
-      - title: Our team
-        url: /about/team
+      - title: Contact Us
+        url: /about/contact/
+      - title: Our Team
+        url: /about/team/
