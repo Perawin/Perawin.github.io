@@ -6,13 +6,9 @@ nav:
   - title: Home
     url: /
   - title: About
-<<<<<<< Updated upstream
     url: /about
     sub_nav:
       - title: Contact us
         url: /about/contact
       - title: Our team
         url: /about/team
-=======
-    url: /about/
->>>>>>> Stashed changes
