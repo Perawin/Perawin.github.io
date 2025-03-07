@@ -6,4 +6,9 @@ nav:
   - title: Home
     url: /
   - title: About
-    url: /_pages/about.md
+    url: /about
+    sub_nav:
+      - title: Contact us
+        url: /about/contact
+      - title: Our team
+        url: /about/team
