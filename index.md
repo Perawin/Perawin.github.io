@@ -1,8 +1,8 @@
-# Welcome to My Website
+# Hello, welcome to my testing ground
 
 Welcome to my personal website. Here, you'll find information about my background, interests, and projects.
 
-[Learn more about me](/_pages/about.md/) { .btn .btn-primary }
+[Learn more about me](/about/) 
 
 ## Additional Information
 
